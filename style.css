@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 198, 176);
+}
+
+h1, h2, h3, h4 {
+    color: #3f7f64;
+    font-family: cursive;
+}
+
+img {
+    border-radius: 50%;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    margin-top: 20px;
+}
